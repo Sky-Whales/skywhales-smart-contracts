@@ -18,7 +18,7 @@ import "./Sky.sol";
 // distributed and the community can show to govern itself.
 //
 // Have fun reading it. Hopefully it's bug-free. God bless.
-contract MasterWhale is Ownable {
+contract MasterWhaler is Ownable {
     using SafeMath for uint256;
     using SafeBEP20 for IBEP20;
 
